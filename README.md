@@ -37,6 +37,6 @@ https://sayali-gade.github.io/Tic-Tock-Toe-Game/  file in your web browser.
 
 # About the Project
 
-This Project was creating to demonstrate the basic and initial understanding of the HTML,CSS and Javscript. Which will useful for further Project's implementarion knowledge.
+This Project was created to demonstrate the basic and initial understanding of the HTML,CSS and Javscript. Which will useful for further Project's implementarion knowledge.
 
  
